@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Demo for the App](http://mariselvanm.github.io/mindsweeper)
+
 ## Available Scripts
 
 In the project directory, you can run:
