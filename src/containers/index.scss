@@ -1,0 +1,61 @@
+@import '~video-react/styles/scss/video-react';
+
+.game-logic-contanier {
+    max-width: 550px;
+    height: 50vh;
+    position: relative;
+    transform: translate(40%, 15%);
+
+    button {
+        width: 23%;
+        height: 34px;
+        font-family: 'Open Sans', 'Helvetica Neue', 'Segoe UI', 'Calibri', 'Arial', sans-serif;
+        font-size: 18px;
+        color: #60666d;
+        border: navajowhite;
+        margin-top: 15px;
+        border-radius: 5px;
+        box-shadow: 0 15px 30px -10px rgb(70, 70, 70);
+        outline: none;
+    }
+}
+
+.user-input-panel {
+    .gameInfo {
+        span {
+            width: 21%;
+            padding: 0;
+            padding-top: 6px;
+            margin: 0 3%;
+            box-sizing: border-box;
+            display: inline-block;
+            height: 34px;
+            background: #fff;
+            font-family: 'Open Sans', 'Helvetica Neue', 'Segoe UI', 'Calibri', 'Arial', sans-serif;
+            font-size: 18px;
+            color: #60666d;
+            border: navajowhite;
+            margin-top: 15px;
+            border-radius: 5px;
+            box-shadow: 0 15px 30px -10px rgba(0, 0, 0, 0.1);
+            outline: none;
+
+            &.bombCount {
+                position: relative;
+            }
+
+            &.bombCount::after{
+                content: '';
+                background-image: url('../assets/explosion.png');
+                position: absolute;
+                background-size: 19px;
+                width: 30px;
+                right: 14%;
+                top: 0;
+                height: 100%;
+                margin-top: 6%;
+                background-repeat: no-repeat;
+            }
+        }
+    }
+}
