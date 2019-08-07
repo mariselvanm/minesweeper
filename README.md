@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Demo for the App](http://mariselvanm.github.io/mindsweeper)
+[Demo for the App](http://mariselvanm.github.io/minesweeper)
 
 ## Available Scripts
 
