@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mindsweeper/static/css/main.835197e6.chunk.css",
+    "main.css": "/mindsweeper/static/css/main.7f125d6b.chunk.css",
     "main.js": "/mindsweeper/static/js/main.f71d8261.chunk.js",
     "main.js.map": "/mindsweeper/static/js/main.f71d8261.chunk.js.map",
     "runtime~main.js": "/mindsweeper/static/js/runtime~main.5472b2c8.js",
@@ -8,9 +8,9 @@
     "static/js/2.4a914921.chunk.js": "/mindsweeper/static/js/2.4a914921.chunk.js",
     "static/js/2.4a914921.chunk.js.map": "/mindsweeper/static/js/2.4a914921.chunk.js.map",
     "index.html": "/mindsweeper/index.html",
-    "precache-manifest.eacde9acad0d0c81240eebd3238df0ba.js": "/mindsweeper/precache-manifest.eacde9acad0d0c81240eebd3238df0ba.js",
+    "precache-manifest.d9f7447376a82d77d79d3c388b44fee9.js": "/mindsweeper/precache-manifest.d9f7447376a82d77d79d3c388b44fee9.js",
     "service-worker.js": "/mindsweeper/service-worker.js",
-    "static/css/main.835197e6.chunk.css.map": "/mindsweeper/static/css/main.835197e6.chunk.css.map",
+    "static/css/main.7f125d6b.chunk.css.map": "/mindsweeper/static/css/main.7f125d6b.chunk.css.map",
     "static/media/index.scss": "/mindsweeper/static/media/explosion.1e12ef9c.png"
   }
 }
